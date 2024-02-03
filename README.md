@@ -1,0 +1,2 @@
+# Second-R
+这应该是我第一个成功的项目，THIS IS THE FIRST NICE REPOSITORY OF ME
